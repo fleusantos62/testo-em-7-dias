@@ -1,0 +1,2 @@
+cd C:\Users\pazea\Downloads
+gh repo create testo-em-7dias --public --source=. --push
